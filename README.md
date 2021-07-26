@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Advanced HTML and Python
 - 💞️ I’m looking to collaborate on developing games, need help on improving graphics
 - 📫 Visit www.khanacademy.org/profile/KevinWijaya15/projects to see and try out my programs
-      Follow my Instagram @_kw59 or Twitter @_kwijaya to reach me
+      Follow my Instagram @_kw59 to reach me
 
 <!---
 KevinWijaya15/KevinWijaya15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
