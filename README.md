@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @KevinWijaya15
-- 👀 I’m interested in developing games using Processing JS
-- 🌱 I’m currently learning Advanced HTML and Python
-- 💞️ I’m looking to collaborate on developing games, need help on improving graphics
-- 📫 Visit https://kevinwijaya15.github.io to see and try out my projects
-      Follow my Instagram @_kw59 to reach me
+- 👀 I’m interested in developing projects with the Processing JS library
+- 🌱 I’m currently learning PHP and React
+- 💞️ I’m looking to collaborate on developing games, especially need help on improving graphics
+- 📫 Visit www.kevinwijaya.rf.gd or follow my Instagram at @_kw59 to find out more
 
 <!---
 KevinWijaya15/KevinWijaya15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
