@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing projects with the Processing JS library
 - 🌱 I’m currently learning PHP and React
 - 💞️ I’m looking to collaborate on developing games, especially need help on improving graphics
-- 📫 Visit www.kevinwijaya.rf.gd or follow my Instagram at @_kw59 to find out more
+- 📫 Visit www.kevinwijaya.net or follow my Instagram at @kevin_wi.jaya to find out more
 
 <!---
 KevinWijaya15/KevinWijaya15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
